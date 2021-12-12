@@ -3,7 +3,7 @@ import {
   Application,
   Context,
   send,
-} from "https://deno.land/x/oak@v6.3.2/mod.ts";
+} from "https://deno.land/x/oak@v6.5.1/mod.ts";
 
 import type { WebSocket } from "https://deno.land/std@0.97.0/ws/mod.ts";
 import {
